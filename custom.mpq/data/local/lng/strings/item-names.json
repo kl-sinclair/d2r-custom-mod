@@ -5119,7 +5119,7 @@
   {
     "id": 2236,
     "Key": "gcv",
-    "enUS": "ÿcOChipped Amethyst",
+    "enUS": "Chipped Amethyst",
     "zhTW": "碎裂紫寶石",
     "deDE": "lädierter Amethyst",
     "esES": "Amatista fragmentada",
@@ -5136,7 +5136,7 @@
   {
     "id": 2237,
     "Key": "gfv",
-    "enUS": "ÿcOFlawed Amethyst",
+    "enUS": "Flawed Amethyst",
     "zhTW": "瑕疵紫寶石",
     "deDE": "fehlerhafter Amethyst",
     "esES": "Amatista estropeada",
@@ -5153,7 +5153,7 @@
   {
     "id": 2238,
     "Key": "gsv",
-    "enUS": "ÿcOAmethyst",
+    "enUS": "Amethyst",
     "zhTW": "紫寶石",
     "deDE": "Amethyst",
     "esES": "Amatista",
@@ -5204,7 +5204,7 @@
   {
     "id": 2241,
     "Key": "gcy",
-    "enUS": "ÿcOChipped Topaz",
+    "enUS": "Chipped Topaz",
     "zhTW": "碎裂黃寶石",
     "deDE": "lädierter Topas",
     "esES": "Topacio fragmentado",
@@ -5221,7 +5221,7 @@
   {
     "id": 2242,
     "Key": "gfy",
-    "enUS": "ÿcOFlawed Topaz",
+    "enUS": "Flawed Topaz",
     "zhTW": "瑕疵黃寶石",
     "deDE": "fehlerhafter Topas",
     "esES": "Topacio estropeado",
@@ -5238,7 +5238,7 @@
   {
     "id": 2243,
     "Key": "gsy",
-    "enUS": "ÿcOTopaz",
+    "enUS": "Topaz",
     "zhTW": "黃寶石",
     "deDE": "Topas",
     "esES": "Topacio",
@@ -5289,7 +5289,7 @@
   {
     "id": 2246,
     "Key": "gcb",
-    "enUS": "ÿcOChipped Sapphire",
+    "enUS": "Chipped Sapphire",
     "zhTW": "碎裂藍寶石",
     "deDE": "lädierter Saphir",
     "esES": "Zafiro fragmentado",
@@ -5306,7 +5306,7 @@
   {
     "id": 2247,
     "Key": "gfb",
-    "enUS": "ÿcOFlawed Sapphire",
+    "enUS": "Flawed Sapphire",
     "zhTW": "瑕疵藍寶石",
     "deDE": "fehlerhafter Saphir",
     "esES": "Zafiro estropeado",
@@ -5357,7 +5357,7 @@
   {
     "id": 2251,
     "Key": "gcg",
-    "enUS": "ÿcOChipped Emerald",
+    "enUS": "Chipped Emerald",
     "zhTW": "碎裂綠寶石",
     "deDE": "lädierter Smaragd",
     "esES": "Esmeralda fragmentada",
@@ -5374,7 +5374,7 @@
   {
     "id": 2252,
     "Key": "gfg",
-    "enUS": "ÿcOFlawed Emerald",
+    "enUS": "Flawed Emerald",
     "zhTW": "瑕疵綠寶石",
     "deDE": "fehlerhafter Smaragd",
     "esES": "Esmeralda estropeada",
@@ -5425,7 +5425,7 @@
   {
     "id": 2256,
     "Key": "gcr",
-    "enUS": "ÿcOChipped Ruby",
+    "enUS": "Chipped Ruby",
     "zhTW": "碎裂紅寶石",
     "deDE": "lädierter Rubin",
     "esES": "Rubí fragmentado",
@@ -5442,7 +5442,7 @@
   {
     "id": 2257,
     "Key": "gfr",
-    "enUS": "ÿcOFlawed Ruby",
+    "enUS": "Flawed Ruby",
     "zhTW": "瑕疵紅寶石",
     "deDE": "fehlerhafter Rubin",
     "esES": "Rubí estropeado",
@@ -5493,7 +5493,7 @@
   {
     "id": 2261,
     "Key": "gcw",
-    "enUS": "ÿcOChipped Diamond",
+    "enUS": "Chipped Diamond",
     "zhTW": "碎裂鑽石",
     "deDE": "lädierter Diamant",
     "esES": "Diamante fragmentado",
@@ -5510,7 +5510,7 @@
   {
     "id": 2262,
     "Key": "gfw",
-    "enUS": "ÿcOFlawed Diamond",
+    "enUS": "Flawed Diamond",
     "zhTW": "瑕疵鑽石",
     "deDE": "fehlerhafter Diamant",
     "esES": "Diamante estropeado",

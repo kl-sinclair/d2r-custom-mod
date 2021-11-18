@@ -28,4 +28,3 @@ and set additional command line args
         - Super Healing/Mana Potion
         - Full Rejuvenation Potion
     - [Gems](./custom.mpq/data/local/lng/strings/item-names.json)
-        - [some other gems](./custom.mpq/data/local/lng/strings/item-nameaffixes.json)
