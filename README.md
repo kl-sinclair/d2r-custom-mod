@@ -20,7 +20,7 @@ and set additional command line args
 - [Use D3 Legendary drop sound for Rune drop](./custom.mpq/data/hd/global/sfx/item/item_rune_hd.flac#)
 - [Horadric light for item drop](./custom.mpq/data/hd/items/)
     - [Rune](./custom.mpq/data/hd/items/misc/rune/)
-    - [Circlet (disabled)](./custom.mpq/data/hd/items/armor/circlet/)
+    - [Circlet (disabled)](./custom.mpq/data/hd/items/armor/_circlet/)
 - [Custom item labels](./custom.mpq/data/local/lng/strings/)
     - [Runes](./custom.mpq/data/local/lng/strings/item-runes.json)
         - more visible from (21) Pul rune
