@@ -23,8 +23,6 @@ and set additional command line args
     - [Circlet (disabled)](./custom.mpq/data/hd/items/armor/_circlet/)
 - [Custom item labels](./custom.mpq/data/local/lng/strings/)
     - [Runes](./custom.mpq/data/local/lng/strings/item-runes.json)
-        - more visible from (21) Pul rune
-    - [Potions](./custom.mpq/data/local/lng/strings/item-names.json)
-        - Super Healing/Mana Potion
-        - Full Rejuvenation Potion
-    - [Gems](./custom.mpq/data/local/lng/strings/item-names.json)
+        - more visible for higher runes than (20) Lem rune
+    - [Full Rejuvenation Potion](./custom.mpq/data/local/lng/strings/item-names.json)
+    - [High Grade Gems](./custom.mpq/data/local/lng/strings/item-names.json)
